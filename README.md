@@ -43,7 +43,7 @@ Managing restaurant operations across multiple zones requires continuous trackin
 ### Restaurant Sales Report Dashboard
 This interactive view connects customer ratings, order times, zonal demand, and cuisine popularity[cite: 7].
 
-[![Restaurant Sales Report Preview](screenshots/restaurant_sales_preview.png)](YOUR_PUBLISH_TO_WEB_URL_HERE)
+[![Restaurant Sales Report Preview](screenshots/restaurant_sales_preview.png)](https://github.com/temitopeolakanmi420-glitch/RESTAURANTS-SALES-OPERATIONAL-PERFORMANCE-REPORT-/blob/main/Screenshot%202026-09-06%20003016.png)
 
 * **Top KPIs**: Highlights total orders (299K), total quantity sold (2K), average delivery time (30.54 mins), and average rating (3.36)[cite: 7].
 * **Cuisine Popularity & Ratings**: Compares top cuisines (North Indian, Chinese, French, South Indian, African) against average customer ratings[cite: 7].
